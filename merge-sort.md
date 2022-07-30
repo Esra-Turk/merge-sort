@@ -2,7 +2,7 @@
 
 ![image](https://www.linkpicture.com/q/proje2.png)
 
-##Çözüm
+## Çözüm
 
               16  21 11 8 12 22       --> n
             
